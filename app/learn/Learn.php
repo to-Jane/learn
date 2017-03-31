@@ -6,6 +6,6 @@ class Learn {
     
     public static function index()
     {
-        echo 'hello composer';
+        echo 'hello 佳乐!';
     }
 }
