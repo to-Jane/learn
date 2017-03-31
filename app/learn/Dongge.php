@@ -2,9 +2,9 @@
 
 namespace App;
 
-class Learn {
+class Dongge {
     
-    public static function index()
+    public static function hello()
     {
         echo 'hello 佳乐!';
     }
