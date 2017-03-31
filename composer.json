@@ -1,0 +1,21 @@
+{
+    "name": "dongge/learn",
+    "description": "learn",
+    "authors": [
+        {
+            "name": "zhouchuandong",
+            "email": "411247654@qq.com"
+        }
+    ],
+    "require": {},
+
+    "autoload" : {
+        "psr-4" :
+        {
+            "App\\" : "app/learn"
+        },
+        "files" : [
+            "app/helps/function.php"
+        ]
+    }
+}
